@@ -33,12 +33,6 @@ Here's how you can contribute:
 - [Open an issue](https://github.com/johanazhu/honghongai/issues) if you believe you've encountered a bug.
 - Make a [pull request](https://github.com/johanazhu/honghongai/pull) to add new features/make quality-of-life improvements/fix bugs.
 
-## Buy me a coffee
-
-If this repo is helpful to you, buy me a coffee,thank you very much!😄
-
-<img src="https://s2.loli.net/2022/10/09/31kvp8HRJuoBCfc.jpg" height="300px" width="300px" />
-
 ## License
 
 Licensed under the [MIT license](https://github.com/johanazhu/honghongai/blob/main/LICENSE.md).
@@ -46,3 +40,5 @@ Licensed under the [MIT license](https://github.com/johanazhu/honghongai/blob/ma
 ## test
 
 initial commit
+
+这里是sawana，如上所示这是fork了一位大佬的作品，并在其基础上进行了修改
